@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1521805135 source:c:\users\devad\desktop\college\new folder\c\lab3\xsandos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1524783192 c:\users\devad\desktop\college\new folder\c\lab3\xsandos\game.h
+
+1524825796 source:c:\users\devad\desktop\college\new folder\c\lab3\xsandos\game.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"game.h"
+
